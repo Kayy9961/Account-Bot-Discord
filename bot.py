@@ -5,7 +5,7 @@ import time
 import requests
 import re
 
-TOKEN = 'TU TOKEY DE DISCORD'
+TOKEN = 'TU TOKEN DE DISCORD'
 GATEWAY_URL = "wss://gateway.discord.gg/?v=9&encoding=json"
 BASE_API_URL = "https://discord.com/api/v9"
 
